@@ -1,1 +1,1 @@
-# maxst-web-sdk
+# mono-repo-template
