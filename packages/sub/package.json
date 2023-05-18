@@ -1,6 +1,5 @@
 {
   "name": "@mono-repo-template/sub",
-  "packageManager": "yarn@3.5.1",
   "sideEffects": false,
   "exports": {
     ".": {
@@ -30,6 +29,7 @@
   "peerDependencies": {
     "livekit-client": "*"
   },
+  "packageManager": "yarn@3.5.1",
   "publishConfig": {
     "access": "public",
     "exports": {
