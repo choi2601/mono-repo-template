@@ -4247,6 +4247,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/runtime", "npm:7.21.5"],\
             ["@types/babel__core", "npm:7.20.0"],\
             ["@types/babel__preset-env", "npm:7.9.2"],\
+            ["@types/jest", "npm:29.5.1"],\
             ["@types/node", "npm:14.18.47"],\
             ["@yarnpkg/pnpify", "npm:4.0.0-rc.44"],\
             ["babel-jest", "virtual:b3610ead2fe255205cb9bda93fddf448f24b57e7174110d58cef6ee3f33dc6301b3d5dc66af1153cb6f75974df0700d79f8c9b0b2564d75960395463af0f7a4e#npm:29.5.0"],\
@@ -14652,7 +14653,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/babel-jest", null],\
             ["@types/babel__core", "npm:7.20.0"],\
             ["@types/esbuild", null],\
-            ["@types/jest", null],\
+            ["@types/jest", "npm:29.5.1"],\
             ["@types/jest__types", null],\
             ["@types/typescript", null],\
             ["babel-jest", "virtual:b3610ead2fe255205cb9bda93fddf448f24b57e7174110d58cef6ee3f33dc6301b3d5dc66af1153cb6f75974df0700d79f8c9b0b2564d75960395463af0f7a4e#npm:29.5.0"],\
