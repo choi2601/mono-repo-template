@@ -4254,7 +4254,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["identity-obj-proxy", "npm:3.0.0"],\
             ["jest", "virtual:a19222c8b659e03fbda3ef3e5892d26a743e5aab476001160669ae29b12d72b69822212c60fb0d59fff5f6b291500d6cd7261cef25ce8668d3b4e555cd66a15f#npm:29.5.0"],\
             ["jest-environment-jsdom", "virtual:a19222c8b659e03fbda3ef3e5892d26a743e5aab476001160669ae29b12d72b69822212c60fb0d59fff5f6b291500d6cd7261cef25ce8668d3b4e555cd66a15f#npm:29.5.0"],\
-            ["livekit-client", "npm:1.9.5"],\
             ["rollup", "npm:2.79.1"],\
             ["ts-jest", "virtual:8c39573f9f7fb8284adc82cc34e7db86f47ff4f02793d520984ffff1011548aa6ad9272c86e6b1db3d198c9f88b4086df352d11811b6d638b2466e7e47818a78#npm:29.1.0"],\
             ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=65a307"]\
@@ -4895,98 +4894,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["@protobufjs/aspromise", [\
-        ["npm:1.1.2", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-aspromise-npm-1.1.2-71d00b938f-011fe7ef08.zip/node_modules/@protobufjs/aspromise/",\
-          "packageDependencies": [\
-            ["@protobufjs/aspromise", "npm:1.1.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/base64", [\
-        ["npm:1.1.2", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-base64-npm-1.1.2-cd8ca6814a-67173ac34d.zip/node_modules/@protobufjs/base64/",\
-          "packageDependencies": [\
-            ["@protobufjs/base64", "npm:1.1.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/codegen", [\
-        ["npm:2.0.4", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-codegen-npm-2.0.4-36e188bbe6-59240c850b.zip/node_modules/@protobufjs/codegen/",\
-          "packageDependencies": [\
-            ["@protobufjs/codegen", "npm:2.0.4"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/eventemitter", [\
-        ["npm:1.1.0", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-eventemitter-npm-1.1.0-029cc7d431-0369163a3d.zip/node_modules/@protobufjs/eventemitter/",\
-          "packageDependencies": [\
-            ["@protobufjs/eventemitter", "npm:1.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/fetch", [\
-        ["npm:1.1.0", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-fetch-npm-1.1.0-ca857b7df4-3fce7e09eb.zip/node_modules/@protobufjs/fetch/",\
-          "packageDependencies": [\
-            ["@protobufjs/fetch", "npm:1.1.0"],\
-            ["@protobufjs/aspromise", "npm:1.1.2"],\
-            ["@protobufjs/inquire", "npm:1.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/float", [\
-        ["npm:1.0.2", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-float-npm-1.0.2-5678f64d08-5781e12412.zip/node_modules/@protobufjs/float/",\
-          "packageDependencies": [\
-            ["@protobufjs/float", "npm:1.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/inquire", [\
-        ["npm:1.1.0", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-inquire-npm-1.1.0-3c7759e9ce-ca06f02eaf.zip/node_modules/@protobufjs/inquire/",\
-          "packageDependencies": [\
-            ["@protobufjs/inquire", "npm:1.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/path", [\
-        ["npm:1.1.2", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-path-npm-1.1.2-641d08de76-856eeb532b.zip/node_modules/@protobufjs/path/",\
-          "packageDependencies": [\
-            ["@protobufjs/path", "npm:1.1.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/pool", [\
-        ["npm:1.1.0", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-pool-npm-1.1.0-47a76f96a1-d6a34fbbd2.zip/node_modules/@protobufjs/pool/",\
-          "packageDependencies": [\
-            ["@protobufjs/pool", "npm:1.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@protobufjs/utf8", [\
-        ["npm:1.1.0", {\
-          "packageLocation": "./.yarn/cache/@protobufjs-utf8-npm-1.1.0-02c590807c-f9bf3163d1.zip/node_modules/@protobufjs/utf8/",\
-          "packageDependencies": [\
-            ["@protobufjs/utf8", "npm:1.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["@rollup/plugin-babel", [\
         ["npm:5.3.1", {\
           "packageLocation": "./.yarn/cache/@rollup-plugin-babel-npm-5.3.1-6039a4d033-220d71e464.zip/node_modules/@rollup/plugin-babel/",\
@@ -5470,13 +5377,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-node-npm-20.1.7-5b16f346c1-b722794290.zip/node_modules/@types/node/",\
           "packageDependencies": [\
             ["@types/node", "npm:20.1.7"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:20.2.0", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.2.0-213a327153-9b93736744.zip/node_modules/@types/node/",\
-          "packageDependencies": [\
-            ["@types/node", "npm:20.2.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -11250,22 +11150,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["livekit-client", [\
-        ["npm:1.9.5", {\
-          "packageLocation": "./.yarn/cache/livekit-client-npm-1.9.5-d846a95d03-df48656782.zip/node_modules/livekit-client/",\
-          "packageDependencies": [\
-            ["livekit-client", "npm:1.9.5"],\
-            ["events", "npm:3.3.0"],\
-            ["loglevel", "npm:1.8.1"],\
-            ["protobufjs", "npm:7.2.3"],\
-            ["sdp-transform", "npm:2.14.1"],\
-            ["ts-debounce", "npm:4.0.0"],\
-            ["typed-emitter", "npm:2.1.0"],\
-            ["webrtc-adapter", "npm:8.2.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["load-json-file", [\
         ["npm:4.0.0", {\
           "packageLocation": "./.yarn/cache/load-json-file-npm-4.0.0-c9f09d85eb-8f5d6d93ba.zip/node_modules/load-json-file/",\
@@ -11378,24 +11262,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["log-symbols", "npm:4.1.0"],\
             ["chalk", "npm:4.1.2"],\
             ["is-unicode-supported", "npm:0.1.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["loglevel", [\
-        ["npm:1.8.1", {\
-          "packageLocation": "./.yarn/cache/loglevel-npm-1.8.1-1768109374-a1a62db402.zip/node_modules/loglevel/",\
-          "packageDependencies": [\
-            ["loglevel", "npm:1.8.1"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["long", [\
-        ["npm:5.2.3", {\
-          "packageLocation": "./.yarn/cache/long-npm-5.2.3-61dddb7586-885ede7c3d.zip/node_modules/long/",\
-          "packageDependencies": [\
-            ["long", "npm:5.2.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -13176,27 +13042,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["protobufjs", [\
-        ["npm:7.2.3", {\
-          "packageLocation": "./.yarn/unplugged/protobufjs-npm-7.2.3-c8e4e8bc20/node_modules/protobufjs/",\
-          "packageDependencies": [\
-            ["protobufjs", "npm:7.2.3"],\
-            ["@protobufjs/aspromise", "npm:1.1.2"],\
-            ["@protobufjs/base64", "npm:1.1.2"],\
-            ["@protobufjs/codegen", "npm:2.0.4"],\
-            ["@protobufjs/eventemitter", "npm:1.1.0"],\
-            ["@protobufjs/fetch", "npm:1.1.0"],\
-            ["@protobufjs/float", "npm:1.0.2"],\
-            ["@protobufjs/inquire", "npm:1.1.0"],\
-            ["@protobufjs/path", "npm:1.1.2"],\
-            ["@protobufjs/pool", "npm:1.1.0"],\
-            ["@protobufjs/utf8", "npm:1.1.0"],\
-            ["@types/node", "npm:20.2.0"],\
-            ["long", "npm:5.2.3"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["protocols", [\
         ["npm:2.0.1", {\
           "packageLocation": "./.yarn/cache/protocols-npm-2.0.1-e2bc74d1c1-4a9bef6aa0.zip/node_modules/protocols/",\
@@ -13784,24 +13629,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["saxes", "npm:6.0.0"],\
             ["xmlchars", "npm:2.2.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["sdp", [\
-        ["npm:3.2.0", {\
-          "packageLocation": "./.yarn/cache/sdp-npm-3.2.0-b1a5f85233-227885bdda.zip/node_modules/sdp/",\
-          "packageDependencies": [\
-            ["sdp", "npm:3.2.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["sdp-transform", [\
-        ["npm:2.14.1", {\
-          "packageLocation": "./.yarn/cache/sdp-transform-npm-2.14.1-04e06389b7-8b3179786d.zip/node_modules/sdp-transform/",\
-          "packageDependencies": [\
-            ["sdp-transform", "npm:2.14.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -14627,15 +14454,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["ts-debounce", [\
-        ["npm:4.0.0", {\
-          "packageLocation": "./.yarn/cache/ts-debounce-npm-4.0.0-59e3ec0db2-e1e509632c.zip/node_modules/ts-debounce/",\
-          "packageDependencies": [\
-            ["ts-debounce", "npm:4.0.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["ts-jest", [\
         ["npm:29.1.0", {\
           "packageLocation": "./.yarn/cache/ts-jest-npm-29.1.0-ede119702b-535dc42ad5.zip/node_modules/ts-jest/",\
@@ -14964,16 +14782,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["call-bind", "npm:1.0.2"],\
             ["for-each", "npm:0.3.3"],\
             ["is-typed-array", "npm:1.1.10"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["typed-emitter", [\
-        ["npm:2.1.0", {\
-          "packageLocation": "./.yarn/cache/typed-emitter-npm-2.1.0-0c02187bf2-95821a9e05.zip/node_modules/typed-emitter/",\
-          "packageDependencies": [\
-            ["typed-emitter", "npm:2.1.0"],\
-            ["rxjs", "npm:7.8.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -15324,16 +15132,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/webidl-conversions-npm-7.0.0-e8c8e30c68-f05588567a.zip/node_modules/webidl-conversions/",\
           "packageDependencies": [\
             ["webidl-conversions", "npm:7.0.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["webrtc-adapter", [\
-        ["npm:8.2.2", {\
-          "packageLocation": "./.yarn/cache/webrtc-adapter-npm-8.2.2-ad4a2afffc-29306ac7e1.zip/node_modules/webrtc-adapter/",\
-          "packageDependencies": [\
-            ["webrtc-adapter", "npm:8.2.2"],\
-            ["sdp", "npm:3.2.0"]\
           ],\
           "linkType": "HARD"\
         }]\
